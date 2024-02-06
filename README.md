@@ -1,13 +1,11 @@
 <h1 align="center">Olá 👋, seja-bem vindo meu nome é Luiz Krawiec</h1>
-<h3 align="center">E sou um apaixonado por dados e poder de transformação que ele pode trazer em diferentes cenários</h3>
+<h3 align="center">E sou um apaixonado por dados e o  poder de transformação que podem trazer em diferentes cenários</h3>
 
 - 🌱 Hoje estudando muito sobre Machine Learning e Web Scraping **SciPy, Scikit-learn**
 
 - 👨‍💻 Você pode ver meus projetos aqui [https://www.kaggle.com/luizkrawiec/code](https://www.kaggle.com/luizkrawiec/code)
 
 - 📫Você pode entrar em contato comigo através do e-mail: **luizkrawiec80@gmail.com**
-
-- 📄 Sobre minhas experiências [Profissional em transição de carreira, com 23 anos de experiência consolidada em Comunicação Estratégica e Tecnologia da Informação. Diante da chegada da nova economia, tenho canalizado minha trajetória profissional para a empolgante e desafiadora área de dados. Em um cenário onde decisões assertivas são cruciais e não se admite mais basear-se em suposições, a habilidade de comunicar com clareza e objetividade os dados disponíveis pode ter um impacto significativo nos negócios. Hard Skills em : Python para Análise de Dados Power BI SQL ETL Desenvolvendo habilidades em: Machine Learning Web Scraping com Scrapy](Profissional em transição de carreira, com 23 anos de experiência consolidada em Comunicação Estratégica e Tecnologia da Informação. Diante da chegada da nova economia, tenho canalizado minha trajetória profissional para a empolgante e desafiadora área de dados. Em um cenário onde decisões assertivas são cruciais e não se admite mais basear-se em suposições, a habilidade de comunicar com clareza e objetividade os dados disponíveis pode ter um impacto significativo nos negócios. Hard Skills em : Python para Análise de Dados Power BI SQL ETL Desenvolvendo habilidades em: Machine Learning Web Scraping com Scrapy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
