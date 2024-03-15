@@ -1,11 +1,10 @@
 <h1 align="center">Hello!  👋, I'm Luiz Krawiec and this is my portfolio as a Data Analyst.</h1>
 <h3 align="center">Here, I share projects and experiences that showcase my ability to analyze and interpret data to provide valuable insights. Explore my work and feel free to get in touch for collaborations or professional opportunities.</h3>
 
-- 🌱 Hoje estudando muito sobre Machine Learning e Web Scraping **SciPy, Scikit-learn**
+- 🌱 Expertise: With a blend of curiosity and analytical prowess, I dive deep into datasets to unearth insights that drive strategic decisions and innovation.
 
-- 👨‍💻 Você pode ver meus projetos aqui [https://www.kaggle.com/luizkrawiec/code](https://www.kaggle.com/luizkrawiec/code)
-
-- 📫Você pode entrar em contato comigo através do e-mail: **luizkrawiec80@gmail.com**
+- 👨‍💻 Creative Approach: Beyond the numbers, I bring a creative flair to my work, transforming complex data sets into compelling narratives that resonate with diverse audiences.
+- 📫 For inquiries, please contact me at **luizkrawiec80@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
