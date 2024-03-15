@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, seja-bem vindo meu nome é Luiz Krawiec</h1>
-<h3 align="center">E sou um apaixonado por dados e o  poder de transformação que podem trazer em diferentes cenários</h3>
+<h1 align="center">Hello!  👋, I'm Luiz Krawiec and this is my portfolio as a Data Analyst.</h1>
+<h3 align="center">Here, I share projects and experiences that showcase my ability to analyze and interpret data to provide valuable insights. Explore my work and feel free to get in touch for collaborations or professional opportunities.</h3>
 
 - 🌱 Hoje estudando muito sobre Machine Learning e Web Scraping **SciPy, Scikit-learn**
 
