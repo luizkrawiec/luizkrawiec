@@ -1,4 +1,4 @@
-<h1 align="center">Hello!  👋, I'm Luiz Krawiec and this is my portfolio as a Data Analyst.</h1>
+<h1 align="center">Hi there!  👋, I'm Luiz Krawiec and this is my portfolio as a Data Analyst.</h1>
 <h3 align="center">Here, I share projects and experiences that showcase my ability to analyze and interpret data to provide valuable insights. Explore my work and feel free to get in touch for collaborations or professional opportunities.</h3>
 
 - 🌱 Expertise: With a blend of curiosity and analytical prowess, I dive deep into datasets to unearth insights that drive strategic decisions and innovation.
