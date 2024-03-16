@@ -4,10 +4,12 @@
 - 🌱 Expertise: With a blend of curiosity and analytical prowess, I dive deep into datasets to unearth insights that drive strategic decisions and innovation.
 
 - 👨‍💻 Creative Approach: Beyond the numbers, I bring a creative flair to my work, transforming complex data sets into compelling narratives that resonate with diverse audiences.
-  
+
+- 🛠️ Tools: I leverage a variety of tools including Python, SQL, Looker Studio, and Power BI to extract, analyze, and visualize data.
+   
 - 📫 For inquiries, please contact me at **luizkrawiec80@gmail.com**
   
-- 🛠️ Tools: I leverage a variety of tools including Python, SQL, Looker Studio, and Power BI to extract, analyze, and visualize data.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
