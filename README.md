@@ -14,8 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/luizkrawiec/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luizkrawiec/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/luizkrawiec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/luizkrawiec" height="30" width="40" /></a>
-<a href="https://instagram.com/luizkrawiec_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luizkrawiec_" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/luizkrawiec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
